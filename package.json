@@ -19,5 +19,13 @@
   "directories": {
     "doc": "docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvin21-cmd/melvin21-cmd.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/melvin21-cmd/melvin21-cmd.github.io/issues"
+  },
+  "homepage": "https://github.com/melvin21-cmd/melvin21-cmd.github.io#readme",
   "description": ""
 }
